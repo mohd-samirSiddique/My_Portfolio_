@@ -22,28 +22,28 @@ export default function Contact({ full, barClicked }) {
                                         <i className="fa-solid fa-phone-flip"></i>
                                     </div>
                                     <h4 className="detail-head mb-1">Call Us On</h4>
-                                    <p className="para">+91 8474950220</p>
+                                    <p className="para">+91 6397992899</p>
                                 </div>
                                 <div className="col-lg-3">
                                     <div className="card-icon contact-icon mb-3">
                                         <i className="fa-solid fa-location-dot"></i>
                                     </div>
-                                    <h4 className="detail-head mb-1">Call Us On</h4>
-                                    <p className="para">+91 6397975052</p>
+                                    <h4 className="detail-head mb-1">Address</h4>
+                                    <p className="para">Jaisinghpura mathura (U.P)</p>
                                 </div>
                                 <div className="col-lg-3">
                                     <div className="card-icon contact-icon mb-3">
                                         <i className="fa-solid fa-envelope"></i>
                                     </div>
-                                    <h4 className="detail-head mb-1">Call Us On</h4>
-                                    <p className="para">+91 8474950220</p>
+                                    <h4 className="detail-head mb-1">Message Us</h4>
+                                    <p className="para">+91 6397992899</p>
                                 </div>
                                 <div className="col-lg-3">
                                     <div className="card-icon contact-icon mb-3">
                                         <i className="fa-solid fa-earth-americas"></i>
                                     </div>
-                                    <h4 className="detail-head mb-1">Call Us On</h4>
-                                    <p className="para">+91 8474950220</p>
+                                    <h4 className="detail-head mb-1">Website</h4>
+                                    <p className="para">www.domain.com</p>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@ export default function Contact({ full, barClicked }) {
                     <div className="container fluid">
                             <form className="row g-3 py-4 contact-form">
                                 <div className="col-md-6">
-                                    <input type="email" className="form-control rounded-4" id="name" placeholder="Name"/>
+                                    <input type="name" className="form-control rounded-4" id="name" placeholder="Name"/>
                                 </div>
                                 <div className="col-md-6">
                                     <input type="email" className="form-control rounded-4" id="email" placeholder="Email"/>

@@ -9,22 +9,22 @@ export default function About({ full, barClicked }) {
                         <i className="fa-solid fa-bars"></i>
                     </div>
                     <h1 className="section-head">About Me</h1>
-                    <h2 className="main-head">I'm anonymouse A <span>Web Developer</span></h2>
-                    <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem repellendus illum reprehenderit culpa laborum odit quo debitis sed, labore quaerat neque architecto nihil aspernatur, id facere, delectus distinctio ea. Vitae nihil exercitationem porro est voluptatem sapiente id! Autem cupiditate eius necessitatibus! Minima officia laborum saepe libero cumque facilis impedit?</p>
+                    <h2 className="main-head">I'm Samir A <span>Web Developer</span></h2>
+                    <p className="para">I have completed Advanced Full Stack Web Devlopment Course from Tecnosters.</p>
                     <div className="container-fluid my-5">
                         <div className="row">
                             <div className="col-md-7 personal-details">
                                 <div className="row">
                                     <div className="col-md-6">
-                                        <p><b>Birthday :</b> <span className="para">15 april 2003</span></p>
+                                        <p><b>Birthday :</b> <span className="para">22 July 2002</span></p>
                                         <p><b>Website :</b> <span className="para">www.domain.com</span></p>
                                         <p><b>Degree :</b> <span className="para">BSc in CS</span></p>
                                         <p><b>City :</b> <span className="para">Mathura</span></p>
                                     </div>
                                     <div className="col-md-6">
-                                        <p><b>Age :</b> <span className="para">21</span></p>
-                                        <p><b>Email :</b> <span className="para">Info@gmail.com</span></p>
-                                        <p><b>Phone :</b> <span className="para">+91 8474950220</span></p>
+                                        <p><b>Age :</b> <span className="para">22</span></p>
+                                        <p><b>Email :</b> <span className="para">samirsiddique98581@gmail.com</span></p>
+                                        <p><b>Phone :</b> <span className="para">+91 6397992899</span></p>
                                         <p><b>Freelance :</b> <span className="para">Available</span></p>
                                     </div>
                                     <button className="btn1" style={{width:"fit-content"}}>Download CV</button>
@@ -66,33 +66,33 @@ export default function About({ full, barClicked }) {
                             <div className="col-md-6">
                                 <h2 className="main-head">Education</h2>
                                 <div className="achieve-box">
-                                    <p className="para dot">2013-2015</p>
-                                    <div className="sec-head">Master in Computer Science</div>
-                                    <p className="para mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
+                                    <p className="para dot">2021-2024</p>
+                                    <div className="sec-head">Bachelor of Science</div>
+                                    <p className="para mb-5">I have completed my bachelor degree in Computer Science with first division.</p>
 
-                                    <p className="para dot">2013-2015</p>
-                                    <div className="sec-head">Master in Computer Science</div>
-                                    <p className="para mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
+                                    <p className="para dot">2020-2021</p>
+                                    <div className="sec-head">Intermediate</div>
+                                    <p className="para mb-5">I have completed my Intermediate (PCM) with first division.</p>
 
-                                    <p className="para dot">2013-2015</p>
+                                    {/* <p className="para dot">2013-2015</p>
                                     <div className="sec-head">Master in Computer Science</div>
-                                    <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
+                                    <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p> */}
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <h2 className="main-head">Experience</h2>
                                 <div className="achieve-box">
-                                    <p className="para dot">2013-2015</p>
+                                    <p className="para dot">2023-2024</p>
+                                    <div className="sec-head">Front-end Developer</div>
+                                    <p className="para mb-5">I have six month experience as a font-end developer and have a experience of working real time projects.</p>
+
+                                    {/* <p className="para dot">2013-2015</p>
                                     <div className="sec-head">Master in Computer Science</div>
                                     <p className="para mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
 
                                     <p className="para dot">2013-2015</p>
                                     <div className="sec-head">Master in Computer Science</div>
-                                    <p className="para mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
-
-                                    <p className="para dot">2013-2015</p>
-                                    <div className="sec-head">Master in Computer Science</div>
-                                    <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p>
+                                    <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, illum aliquam? Tenetur perspiciatis velit similique temporibus nemo quia dignissimos magni amet, ad rerum voluptatum ipsam, eligendi saepe? Neque repudiandae veritatis culpa eius in accusantium commodi porro modi eveniet architecto, omnis quod accusamus rerum perspiciatis sint! Cumque, nemo! Nulla, inventore dolores.</p> */}
                                 </div>
                             </div>
                         </div>

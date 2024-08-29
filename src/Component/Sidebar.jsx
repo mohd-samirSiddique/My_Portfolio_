@@ -28,7 +28,7 @@ export default function Sidebar({full,setFull,barClicked}) {
         <>
             <div className={sideClass}>
                 <div className="logo">
-                    <a href="#">Anonymouse</a>
+                    <a href="#">Samir</a>
                 </div>
                 <div className="menu-bars" onClick={barClicked}>
                     <i className="fa-solid fa-xmark"></i>
